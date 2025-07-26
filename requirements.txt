@@ -1,0 +1,6 @@
+pandas
+openpyxl
+numpy
+statsmodels
+pytest
+flake8
